@@ -24,10 +24,10 @@ in which setting, and at what resolution.
 
 | Strand | Existing work | Contribution to the synthesis |
 |---|---|---|
-| Names and local knowledge | [caste-name-information](../caste-name-information/README.md) | Aggregate information in names, base rates, coverage, and geographic context |
-| Economic distributions | [caste-economic-overlap](../caste-economic-overlap/README.md) | Income/land overlap, two-draw comparisons, common thresholds, and reverse tail composition |
+| Names and local knowledge | [caste_name_information](../caste_name_information/README.md) | Aggregate information in names, base rates, coverage, and geographic context |
+| Economic distributions | [caste_economic_overlap](../caste_economic_overlap/README.md) | Income/land overlap, two-draw comparisons, common thresholds, and reverse tail composition |
 | Appearance and perception | [Perception literature](docs/literature.md); related local project `../chehra` | Distinguish actual information from impressions, stereotypes and observer confidence; critically assess existing claims rather than treating a machine score as human perception |
-| Land and recorded jati | [Land-source audit](../caste-economic-overlap/docs/additional-land-sources.md) | Bihar, Rajasthan and Odisha records; direct labels, ownership selection and measurement limitations |
+| Land and recorded jati | [Land-source audit](../caste_economic_overlap/docs/additional-land-sources.md) | Bihar, Rajasthan and Odisha records; direct labels, ownership selection and measurement limitations |
 | Context and time | [Study design](docs/design.md) | Strangers versus local knowledge, changing consumer signals, income volatility and durable possessions |
 
 The synthesis is a separate repository. Source analyses remain in their own
