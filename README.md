@@ -62,3 +62,7 @@ cues, sampling weights, coverage, holdout design and uncertainty. Keep individua
 records and any source portraits outside this synthesis repository.
 
 This is a research-notes repository; there is no runtime package or build step.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
