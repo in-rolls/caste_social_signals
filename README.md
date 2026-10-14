@@ -65,4 +65,14 @@ This is a research-notes repository; there is no runtime package or build step.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [in-rolls/caste_economic_overlap](https://github.com/in-rolls/caste_economic_overlap) — Economic distribution overlap and predictive information across caste groups
+- [in-rolls/land](https://github.com/in-rolls/land) — Distribution of Land in Bihar
+- [in-rolls/caste_marriage_matching](https://github.com/in-rolls/caste_marriage_matching) — Replication and analysis of caste preferences, shortlisting and marriage matching in India
+- [in-rolls/caste_marriage_ads](https://github.com/in-rolls/caste_marriage_ads) — Replication and analysis of caste, income and responses to matrimonial advertisements in India
+- [in-rolls/caste_name_information](https://github.com/in-rolls/caste_name_information) — How much does an Indian last name tell you about caste? Guess a stranger's and you're wrong 25 times in 100; hear their surname and you're wrong 20. For 91% of people the name changes nothing.
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
